@@ -1,3 +1,5 @@
-body {
-  background-color: lightblue;
+.web-logo {
+  height: 50px;
+  width: 60px;
+  border-radius: 20px;
 }
