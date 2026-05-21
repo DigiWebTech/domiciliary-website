@@ -7,3 +7,80 @@
 #nav-name {
      font-family: 'Poppins', sans-serif;
 }
+
+ * {
+      align-items: center;
+      color: white;
+    }
+
+    .hero h1 {
+      font-size: 3.5rem;
+      font-weight: 700;
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+      max-width: 650px;
+    }
+
+    .section-title {
+      font-weight: 700;
+      color: #0d6efd;
+    }
+
+    .service-card {
+      border: none;
+      border-radius: 20px;
+      transition: 0.3s ease;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+    }
+
+    .service-card:hover {
+      transform: translateY(-8px);
+    }
+
+    .service-icon {
+      font-size: 3rem;
+      color: #0d6efd;
+    }
+
+    .about-img {
+      border-radius: 20px;
+      width: 100%;
+    }
+
+    .stats {
+      background: #0d6efd;
+      color: white;
+    }
+
+    .stats h2 {
+      font-size: 3rem;
+      font-weight: 700;
+    }
+
+    .testimonial-card {
+      border-radius: 20px;
+      border: none;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+    }
+
+    .contact-section {
+      background: #f8f9fa;
+    }
+
+    footer {
+      background: #0b1c39;
+      color: white;
+    }
+
+    footer a {
+      color: #ffffff;
+      text-decoration: none;
+    }
+
+    .btn-custom {
+      padding: 12px 28px;
+      border-radius: 50px;
+      font-weight: 600;
+    }
